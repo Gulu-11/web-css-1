@@ -1,0 +1,75 @@
+h1 {
+    text-align: center;
+    color: #8E26C0;
+    /* ფონტის ინფორმაცია დაკოპირებული მაქვს ფიგმადან */
+    font-family: JetBrains Mono;
+font-size: 64px;
+font-weight: 800;
+line-height: 84.48px;
+}
+
+#text1 {
+    width: 565px;
+    height: 86;
+    color: red;
+    background-color: #FFE8E8;
+    padding: 24px 40px 24px 40px;
+    /* ფონტის ინფორმაცია დაკოპირებული მაქვს ფიგმადან */
+    font-family: Lato;
+font-size: 32px;
+font-weight: 400;
+line-height: 38.4px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+
+}
+
+
+#text2 {
+    width: 1023px;
+    height: 144;
+    color: #85647B;
+    /* ფონტის ინფორმაცია დაკოპირებული მაქვს ფიგმადან */
+    font-family: Lato;
+font-size: 40px;
+font-weight: 400;
+line-height: 48px;
+text-align: center;
+}
+
+#text3 {
+    width: 1023px;
+    height: 133px;
+    background-color: #FFE8E8;
+    color: #85647B;
+    padding: 24px 40px 24px 40px;
+    /* ფონტის ინფორმაცია დაკოპირებული მაქვს ფიგმადან */
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 48px;
+    text-align: center;
+}
+u {
+    color: red;
+    font-size: 120%;
+}
+#text4 {
+    width: 1069px;
+    height: 86px;
+    color: #3538CD;
+    padding: 24px 40px 24px 40px;
+    /* ფონტის ინფორმაცია დაკოპირებული მაქვს ფიგმადან */
+    font-family: Lato;
+font-size: 32px;
+font-weight: 400;
+line-height: 38.4px;
+text-align: right;
+}
+
+#image1 {
+    width: 556px;
+    height: 347px;
+}
+
